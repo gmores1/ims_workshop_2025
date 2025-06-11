@@ -1,0 +1,55 @@
+Assembly	GAS.filtered_sequences
+# contigs (>= 0 bp)	66
+# contigs (>= 1000 bp)	50
+# contigs (>= 5000 bp)	37
+# contigs (>= 10000 bp)	34
+# contigs (>= 25000 bp)	25
+# contigs (>= 50000 bp)	15
+Total length (>= 0 bp)	1806353
+Total length (>= 1000 bp)	1799854
+Total length (>= 5000 bp)	1769911
+Total length (>= 10000 bp)	1748459
+Total length (>= 25000 bp)	1615051
+Total length (>= 50000 bp)	1265587
+# contigs	53
+Largest contig	144239
+Total length	1802391
+Reference length	1791401
+GC (%)	38.36
+Reference GC (%)	38.56
+N50	66934
+NG50	67674
+N90	21088
+NG90	25476
+auN	72861.4
+auNG	73308.4
+L50	10
+LG50	9
+L90	26
+LG90	25
+# misassemblies	18
+# misassembled contigs	13
+Misassembled contigs length	793688
+# local misassemblies	15
+# scaffold gap ext. mis.	0
+# scaffold gap loc. mis.	0
+# unaligned mis. contigs	0
+# unaligned contigs	3 + 19 part
+Unaligned length	142656
+Genome fraction (%)	92.320
+Duplication ratio	1.001
+# N's per 100 kbp	0.00
+# mismatches per 100 kbp	875.16
+# indels per 100 kbp	34.06
+Largest alignment	144239
+Total aligned length	1655699
+NA50	52362
+NGA50	52362
+NA90	3609
+NGA90	4086
+auNA	55881.2
+auNGA	56224.0
+LA50	12
+LGA50	12
+LA90	48
+LGA90	45
